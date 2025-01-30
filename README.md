@@ -1,6 +1,9 @@
 <h1 align="center">Good day 👋, I'm Reymond or Mond</h1>
 <h3 align="center">An enthusiastic full-stack developer from Philippines</h3>
 
+👩🏻‍💻 Software Engineer sharing about my journey and knowledge on modern techology<br/>
+👩🏻‍🎓 Studied [Computer Science] at the Lyceum of the Philippines University-Laguna<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/reymond-calinog-260754325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reymond-calinog-260754325/" height="30" width="40" /></a>
