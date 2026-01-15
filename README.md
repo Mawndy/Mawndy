@@ -6,7 +6,7 @@
 📫 Reach me at calinogreymond@gmail.com
 
 🚀 Projects:
-chronoPulse - Completed
+ChronoPulse - Completed
 
 <h3 align="left">📧 Connect with me at the links below:</h3>
 Linkedin: www.linkedin.com/in/reymond-calinog-260754325
